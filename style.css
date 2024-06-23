@@ -1,0 +1,27 @@
+body{
+  margin: 0px;
+  
+  padding: 50px;
+  text-align: center;
+  background: linear-gradient(to right, skyblue, lightgreen, yellow);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#username1{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#myH1{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-size: 50px;
+}
+
+#mySubmit{
+  background: lightcyan;
+  font-size: 15px;
+  border-radius: 30px;
+  font-weight: 520;
+  border-radius: 30px;
+}
